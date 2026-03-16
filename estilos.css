@@ -1,0 +1,28 @@
+.menu {
+      height: 60px;
+      list-style-type: none;
+      padding: 0;
+      text-align: center;
+
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 50px;
+
+      background-color: green;
+    }
+
+    li {
+      display: block;
+    }
+
+    a {
+      width: 300px;
+      height: 100px;
+
+      color: limegreen;
+    }
+
+    img{
+      width: 600px;
+    }
